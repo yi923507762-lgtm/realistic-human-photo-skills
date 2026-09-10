@@ -1,0 +1,4 @@
+interface:
+  display_name: "Realistic People Photo Prompt"
+  short_description: "Natural single, group, and full-body photo prompts"
+  default_prompt: "Use $realistic-id-photo to build a realistic people-photo prompt from these subject(s): "
