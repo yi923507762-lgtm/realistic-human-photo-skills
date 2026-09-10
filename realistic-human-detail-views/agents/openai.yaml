@@ -1,0 +1,4 @@
+interface:
+  display_name: "Realistic Human Detail Views"
+  short_description: "Consistent close-ups of visible human body regions"
+  default_prompt: "Use $realistic-human-detail-views to create separate realistic detail images from this master person image."
